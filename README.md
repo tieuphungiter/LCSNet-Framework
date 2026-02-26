@@ -44,15 +44,15 @@ LCSNet is a compact CNN family designed for:
 
 ---
 
-### 2️⃣ FedPer\* – Federated Optimization Strategy
+### 2️⃣ FedPerGC – Federated Optimization Strategy
 
-FedPer\* enhances traditional federated learning by introducing:
+FedPerGC  enhances traditional federated learning by introducing:
 
 - Gradient similarity analysis  
 - Contribution-aware weighted aggregation  
 - Stabilized convergence under non-IID distributions  
 
-FedPer\* consistently outperforms:
+FedPerGC  consistently outperforms:
 
 - FedAvg  
 - FedAdam  
